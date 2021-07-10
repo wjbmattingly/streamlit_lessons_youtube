@@ -1,6 +1,6 @@
 # <center>Introduction to Streamlit in Python</center>
 ### <center>by Dr. W.J.B. Mattingly</center>
-
+![](logos/page.png)
 ## Introduction
 This repo is designed to hos the code and apps for my Introduction to Streamlit series on YouTube.
 
